@@ -14,7 +14,8 @@
 	$meses = array("Nombre" => "Marigaby", "Edad" => "25", "Mes" => "Julio, 09", "Año" => "1991");
 
 	foreach ($meses as $key => $value) {
-		echo "Info: $key => $value" . "<br>";	
+		echo "Info: $key => $value" . "<br>";
+		echo "mierda";	
 	}
 
 ?>
